@@ -7,3 +7,4 @@ public class substring {
         System.out.println("SubString(2 to 5): "+sub);
     }
 }
+//check
