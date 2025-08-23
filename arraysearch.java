@@ -1,4 +1,3 @@
-import java.nio.channels.Pipe.SourceChannel;
 import java.util.*;
 public class arraysearch {
     public static void main(String[] args) {
