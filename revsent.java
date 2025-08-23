@@ -12,4 +12,4 @@ public class revsent {
         System.out.println("Reversed Sentence: "+reversed);
     }
 }
-//try
+
